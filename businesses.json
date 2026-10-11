@@ -1,0 +1,25 @@
+{
+  "version": "4.0.0",
+  "updated": "10 October 2026",
+  "capacity": 200,
+  "businesses": [
+    {
+      "id": 1,
+      "name": "Sample Product \u2014 Replace Me",
+      "category": "Products",
+      "description": "Replace this description in your existing Business Manager.",
+      "image": "business001.jpg",
+      "discount": 10,
+      "offer": "Show this screen for 10% off this product.",
+      "terms": "Sample offer only.",
+      "address": "19.99",
+      "phone": "",
+      "website": "",
+      "active": true,
+      "featured": true,
+      "expires": "",
+      "openingHours": "stock:12",
+      "directions": ""
+    }
+  ]
+}
